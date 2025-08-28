@@ -1,0 +1,4 @@
+django
+wordcloud
+matplotlib
+numpy
