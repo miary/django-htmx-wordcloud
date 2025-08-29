@@ -2,3 +2,4 @@ django
 wordcloud
 matplotlib
 numpy
+django-htmx
